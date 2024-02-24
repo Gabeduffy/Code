@@ -1,2 +1,2 @@
 # Code
-Code samples using R 
+Complitation of R programming codes
