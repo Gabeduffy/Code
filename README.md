@@ -1,2 +1,2 @@
 # Code
-Complitation of R programming codes
+Compilation of R programming codes
